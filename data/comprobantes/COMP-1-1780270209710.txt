@@ -1,0 +1,21 @@
+=======================================
+       TECNOREPAIR PERÚ S.A.C.
+   Av. Argentina 2345, Cercado de Lima
+=======================================
+COMPROBANTE DE PAGO
+N°: COMP-1-1780270209710
+Fecha: 31/05/2026 18:30:09
+---------------------------------------
+Cliente: cliente01
+DNI: 12345678
+Equipo: Laptop ASUS V3607VJ-RP067W (Serie: Asus Gaming V16)
+Orden de Servicio N°: 1
+---------------------------------------
+Presupuesto total: S/ 520.00
+Monto pagado hoy: S/ 520.00
+Total pagado acumulado: S/ 520.00
+Saldo pendiente: S/ 0.00
+=======================================
+       ¡Gracias por preferirnos!
+=======================================
+

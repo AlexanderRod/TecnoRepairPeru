@@ -25,19 +25,11 @@ La aplicación simula el funcionamiento de un sistema utilizado por una empresa 
 
 ## ⚠️ Aviso
 
-**TecnoRepair Perú S.A.C. es una empresa ficticia creada únicamente con fines educativos.**
+Este proyecto fue desarrollado exclusivamente con fines académicos como **Proyecto Final del curso Taller de Programación** de la carrera de Ingeniería de Sistemas e Informática.
 
-Toda la información presentada en este proyecto, incluyendo:
+La empresa presentada en este proyecto, **TecnoRepair Perú S.A.C.**, fue creada como un caso de estudio para simular el funcionamiento de un sistema de gestión de reparaciones.
 
-- Nombre de la empresa
-- Dirección
-- Datos de clientes
-- Equipos
-- Técnicos
-- Órdenes de servicio
-- Comprobantes
-
-ha sido creada exclusivamente para el desarrollo del proyecto y no corresponde a información real.
+Aunque pueden existir empresas reales con nombres similares, este proyecto no tiene ninguna relación, afiliación ni representación de ninguna empresa existente. Todos los datos utilizados (clientes, técnicos, equipos, direcciones, órdenes de servicio y demás registros) fueron creados únicamente con fines de aprendizaje y demostración.
 
 ---
 

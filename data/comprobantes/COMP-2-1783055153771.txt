@@ -1,0 +1,21 @@
+=======================================
+       TECNOREPAIR PERÚ S.A.C.
+   Av. Argentina 2345, Cercado de Lima
+=======================================
+COMPROBANTE DE PAGO
+N°: COMP-2-1783055153771
+Fecha: 03/07/2026 00:05:53
+---------------------------------------
+Cliente: Cliente03
+DNI: 12345678
+Equipo: ASUS FA506NCQ-HN046W (Serie: A15)
+Orden de Servicio N°: 2
+---------------------------------------
+Presupuesto total: S/ 370.00
+Monto pagado hoy: S/ 370.00
+Total pagado acumulado: S/ 370.00
+Saldo pendiente: S/ 0.00
+=======================================
+       ¡Gracias por preferirnos!
+=======================================
+

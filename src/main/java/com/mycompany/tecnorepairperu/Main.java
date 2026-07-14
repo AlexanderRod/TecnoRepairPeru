@@ -141,10 +141,6 @@ public class Main {
         System.out.println("12. Cerrar sesión y salir");
     }
 
-    // ========== MÉTODOS DE NEGOCIO (registrarCliente, listarClientes, etc.) ==========
-    // Todos estos métodos se mantienen idénticos a la versión anterior.
-    // A continuación se incluyen completos.
-
     private static int leerInt(String msg) {
         System.out.print(msg);
         while (!scanner.hasNextInt()) {
